@@ -25,7 +25,7 @@ Download and install SQLite from [https://www.sqlite.org/download.html](https://
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-app.git
+   git clone https://github.com/yeneyorel/ROI-Calculator.git
 2. Open your CMD and change your directory on the app (cd roi/calculator/src).
 3. run this to you CMD "node server.ts". "Server is running on port 3000" message will display on your CMD
 4. Open http://localhost:3000/ to your browser
