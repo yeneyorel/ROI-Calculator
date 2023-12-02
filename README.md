@@ -43,7 +43,7 @@ Download and install SQLite from [https://www.sqlite.org/download.html](https://
 3. Go to Database tab and create a 'roi' table Public schema with the same design on the local DB Browser.
 4. Go to table 'roi' and disabled the RLS policies.
 5. Install Node.js and npm
-  - Ensure that Node.js and npm (Node Package Manager) are installed on your machine. You can download and install them from the official Node.js website: Node.js Downloads.
+   - Ensure that Node.js and npm (Node Package Manager) are installed on your machine. You can download and install them from the official Node.js website: Node.js Downloads.
 6. Install Typescript and Required Packages using the following command:
    - 'npm install typescript ts-node @supabase/supabase-js localforage idb'
 7. Create a 'tsconfig.json' file in your project directory. You can create a basic configuration using the following command.
