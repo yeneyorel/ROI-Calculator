@@ -31,7 +31,7 @@ Download and install SQLite from [https://www.sqlite.org/download.html](https://
   'npm install sqlite3'
   - Navigate to the project directory: 'cd roi/calculator/src
   - Install dependencies: npm install
-3. run this to you CMD "node server.ts". "Server is running on port 3000" message will display on your CMD
+3. run this command to your CMD "node server.ts". "Server is running on port 3000" message will display on your CMD
 4. Open the application in your browser (http://localhost:3000)
 5. End Points
    - '/previousCalculations': Fetch previous ROI calculations
